@@ -1,10 +1,10 @@
 ```
-갈색 언덕 배경 포커스 아웃
-배경 왼쪽에 긴머리를 하나로 묶은 머리의 날씬한 남자가 갈색 일렉기타를 들고 있다.
-노란 뿔테 안경을 쓰고, 구렛나루와 이어지는 턱수염과 콧수염,
-검은 반팔티,목에는 검은색 비즈 목걸이,
-왼손으로는 기타 줄을 잡고, 오른손으로는 현을 팅기고 있다.
-몸은 정면을 바라보고, 
-화면 오른쪽으로 고개를 돌려 기타를 바라보고 있다
-왼손 팔꿈치 안쪽에는 레터링 문신이 적혀있다
+Brown hills in the background, out of focus
+On the left side of the background, a slender man with long hair tied back holds a brown electric guitar.
+He wears yellow horn-rimmed glasses, a beard and mustache connecting to his sideburns,
+a black short-sleeved T-shirt, and a black beaded necklace around his neck.
+His left hand holds the guitar strings while his right hand plucks them.
+His body faces forward,
+but his head is turned to the right side of the screen, looking at the guitar.
+Inside his left elbow is a lettering tattoo.
 ```
