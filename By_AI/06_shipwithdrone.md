@@ -1,0 +1,3 @@
+```
+A luxurious, modern houseboat with a sleek, curved glass exterior and a spacious interior, featuring contemporary furniture and a small tree, is being lifted by a large, futuristic drone with four powerful rotors. The drone is white and has a clean, minimalist design. The scene is set in a calm, clear blue sea with several rocky, green islands in the background under a bright, partly cloudy sky. The overall atmosphere is one of innovation, luxury, and advanced technology
+```
