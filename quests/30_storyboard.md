@@ -78,4 +78,4 @@ BGM: 긴장감 있는 분위기에서 희망적이고 현대적인 느낌으로 
 ```
 
 ## speech wav
-[감정대사](quests/quests_30_speech.wav)
+[감정대사](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/quests_30_speech.wav)
