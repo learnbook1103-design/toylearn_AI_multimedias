@@ -52,7 +52,14 @@
 BGM: 긴장감 있는 분위기에서 희망적이고 현대적인 느낌으로 전환되며 마무리.
 
 ## image
+- gemini
 [scenes](https://gemini.google.com/u/1/app/0f6ca76cbaff4712?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all)
+- whisk
+[scene01](https://labs.google/fx/ko/tools/whisk/share/7c1s2q4dm0000)
+[scene02](https://labs.google/fx/ko/tools/whisk/share/2qdd5fmdk0000)
+[scene03](https://labs.google/fx/ko/tools/whisk/share/3trl05ot8g000)
+[scene04](https://labs.google/fx/ko/tools/whisk/share/65g9rnsbo0000)
+[scene05](https://labs.google/fx/ko/tools/whisk/share/55psog83a0000)
 
 ## srt 파일
 ```
