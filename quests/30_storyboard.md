@@ -51,6 +51,9 @@
 
 BGM: 긴장감 있는 분위기에서 희망적이고 현대적인 느낌으로 전환되며 마무리.
 
+## image
+[scenes](https://gemini.google.com/u/1/app/0f6ca76cbaff4712?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all)
+
 ## srt 파일
 ```
 1
