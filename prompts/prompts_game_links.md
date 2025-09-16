@@ -4,4 +4,4 @@
 
 - [07_futureworld.png](https://labs.google/fx/tools/whisk/share/5fcmsqu2g0000) : 미래 도시 풍경
 
-- [08_femalewithcoffee.png](https://labs.google/fx/tools/whisk/share/1nf1jlp180000) : 창가에 앉아 커피 마시는 여성
+- [08_femalewithcoffee.png](https://labs.google/fx/tools/whisk/share/762303jou0000) : 창가에 앉아 커피 마시는 여성
