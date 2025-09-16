@@ -16,6 +16,6 @@ sequence - sequence setting
 
 ## sequence 비율 조정 예시
 - 1024:576 [16:9]()
-- 576:1024 [9:16]()
+- 576:1024 [9:16](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/quests_40_premiere_timelines/Sequence_shorts.mp4)
 - 1024:514 [15:8](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/quests_40_premiere_timelines/40_premiere_timelines_15_8.mp4)
 - 1024:1024[1:1](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/quests_40_premiere_timelines/40_premiere_timelines_1_1.mp4)
