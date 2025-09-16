@@ -15,5 +15,5 @@ sequence - sequence setting
 ```
 
 ## sequence 비율 조정 예시
-[15:8](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/quests_40_premiere_timelines/40_premiere_timelines_15_8.mp4)
-[1:1](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/quests_40_premiere_timelines/40_primere_timelines_1_1.mp4)
+- [15:8](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/quests_40_premiere_timelines/40_premiere_timelines_15_8.mp4)
+- [1:1](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/quests_40_premiere_timelines/40_premiere_timelines_1_1.mp4)
