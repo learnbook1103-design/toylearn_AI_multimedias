@@ -1,0 +1,3 @@
+```
+A beautiful Latina woman in her mid-twenties, with long black wavy hair and wearing a green dress with yellow floral patterns, holds a steaming yellow teacup. Her elegant face is softly made up, and she wears long gold earrings. The background blends lush green foliage with warm, soft golden light filtering through what appears to be a window or tropical landscape, creating a peaceful and tranquil atmosphere. The illustration style, with its crisp lines and vibrant colors, evokes a sophisticated animation aesthetic.
+```
