@@ -1,7 +1,5 @@
 ```
-A Latina woman in her mid-twenties sits by the window, holding a coffee cup in her right hand. 
-Front view. Full, curly hair. Glamorous gold earrings. 
-A vintage-style green dress with yellow floral patterns. 
-An animation style influenced by oil paintings. 
-Tropical night tree leaves filling the space inside and outside the window, visible left and right. Close-up shot.
+A Latina woman in her mid-twenties sits by the window, holding a golden teacup in her right hand. Front shot. Voluminous curly hair. A dazzling gold earring adorns one ear. She wears a vintage-style green dress with yellow floral patterns. Tropical banyan leaves fill the window frame, visible on both sides. Close-up shot. Illustrative style. Soft, warm golden lighting.
+
+LP record depicting a teenage girl wearing sunglasses and a cat, placed in the lower left corner.
 ```
