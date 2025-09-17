@@ -20,3 +20,7 @@ sequence - sequence setting
 - 9:16 [576:1024](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/object/9_16ratio.png) short form
 - 15:8 [1024:514](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/object/15_8%20ratio.png)
 - 1:1 [1024:1024](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/object/1_1%EB%B9%84%EC%9C%A8.png)
+```
+sequence frame을 원본 이미지의 긴 부분보다 작게 만들면,
+원본 이미지를 줄여 더 넓은 부분을 넣을 수 있다.
+```
