@@ -8,7 +8,7 @@
 - [background](https://labs.google/fx/tools/whisk/share/170gdm8egg000)
 
 ## materials
-- [image 1](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/50_popcasts/mural.jpg)
+- [image 1](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/50_popcasts/mural.png)
 - [image 2](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/50_popcasts/persona.jpeg)
 - [image 3](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/50_popcasts/Frankenstein.jpg)
 - [image 4](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/quests/50_popcasts/joker.jpg)
