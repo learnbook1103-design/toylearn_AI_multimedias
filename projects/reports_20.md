@@ -116,6 +116,7 @@
 [ball](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/ball.png)
 [scene01](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/first_Scene.jpeg)
 - Scene2
+[newspaper](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/wanted.png)
 - Scene3
 [missinvention](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/missinvention.png)
 [invention](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/invention.png)
