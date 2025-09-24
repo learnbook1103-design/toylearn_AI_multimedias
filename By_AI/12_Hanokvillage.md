@@ -1,0 +1,3 @@
+```
+a breathtaking aerial view of a traditional Korean hanok village, nestled in a valley and blanketed in fresh snow. In the background, majestic, rugged mountains covered in snow rise towards an overcast winter sky. Dozens of hanok houses with dark-tiled roofs create a stunning contrast against the white snow. The lighting is soft and diffused, creating a peaceful and serene atmosphere. Photorealistic, highly detailed, landscape photography, high angle shot.
+```
