@@ -109,3 +109,16 @@
 
 
 ## image
+- Scene1
+[man](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/man.png)
+[man01](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/man01.png)
+[man02](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/man02.png)
+[ball](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/ball.png)
+[scene01](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/first_Scene.jpeg)
+- Scene2
+- Scene3
+[missinvention](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/missinvention.png)
+[invention](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/invention.png)
+[scientists](https://github.com/learnbook1103-design/toylearn_AI_multimedias/blob/main/projects/source/scientists.png)
+- Scene4
+- Scene5
